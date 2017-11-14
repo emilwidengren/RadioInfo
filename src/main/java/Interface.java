@@ -33,5 +33,7 @@ public class Interface {
         mainWindow.setLocationRelativeTo(null);
         mainWindow.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         mainWindow.setVisible(true);
+
+        System.out.println("hej");
     }
 }
